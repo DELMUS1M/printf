@@ -1,1 +1,2 @@
-The first team project.
+The first team project
+By the OG.
